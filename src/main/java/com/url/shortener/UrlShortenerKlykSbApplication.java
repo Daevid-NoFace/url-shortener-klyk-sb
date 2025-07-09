@@ -9,5 +9,4 @@ public class UrlShortenerKlykSbApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(UrlShortenerKlykSbApplication.class, args);
 	}
-
 }
