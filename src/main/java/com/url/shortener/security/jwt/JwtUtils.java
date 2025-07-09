@@ -1,4 +1,4 @@
-package com.url.shortener.service.jwt;
+package com.url.shortener.security.jwt;
 
 import java.security.Key;
 import java.util.Date;
